@@ -90,12 +90,12 @@ const JoinButton = styled.button`
   border: none;
   border-radius: 15px;
   color: #d8e9ef;
-  background-color: #4ea1d3;
+  background-color: #4a7d61;
   font-size: 25px;
   font-weight: 500;
 
   :hover {
-    background-color: #7bb1d1;
+    background-color: #000000;
     cursor: pointer;
   }
 `;

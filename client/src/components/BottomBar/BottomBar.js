@@ -89,7 +89,7 @@ const Bar = styled.div`
   justify-content: center;
   align-items: center;
   font-weight: 500;
-  background-color: #4ea1d3;
+  background-color: #0e100f;
 `;
 const Left = styled.div`
   display: flex;
@@ -113,7 +113,7 @@ const ChatButton = styled.div`
   padding: 5px;
 
   :hover {
-    background-color: #77b7dd;
+    background-color: #de3030;
     cursor: pointer;
     border-radius: 15px;
   }
@@ -130,7 +130,7 @@ const ScreenButton = styled.div`
   padding: 5px;
 
   :hover {
-    background-color: #77b7dd;
+    background-color: #de3030;
     cursor: pointer;
     border-radius: 15px;
   }
@@ -152,7 +152,7 @@ const StopButton = styled.div`
   font-size: 0.9375rem;
   line-height: 30px;
   margin-right: 15px;
-  background-color: #ee2560;
+  background-color: #55bce0;
   border-radius: 15px;
 
   :hover {
@@ -169,7 +169,7 @@ const CameraButton = styled.div`
   padding: 5px;
 
   :hover {
-    background-color: #77b7dd;
+    background-color: #de3030;
     cursor: pointer;
     border-radius: 15px;
   }
